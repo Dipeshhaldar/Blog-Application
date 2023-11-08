@@ -1,0 +1,17 @@
+.login-text__style {
+    text-align: center;
+    margin-top: -10px;
+    margin-bottom: 40px;
+    font-family: 'Inter';
+}
+
+.register-text__style {
+    text-align: center;
+    margin-top: -10px;
+    margin-bottom: 40px;
+    font-family: 'Inter';
+}
+
+body {
+    background-color: rgba(255, 253, 251, 0.81);
+}
